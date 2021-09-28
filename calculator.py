@@ -1,4 +1,4 @@
-def sum(a,b):
+def addition(a,b):
     return a+b
 
-print(sum(1,4))
+print(addition(1,4))
